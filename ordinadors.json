@@ -1,0 +1,16 @@
+[
+  {
+    "marca": "Dell",
+    "model": "XPS 13",
+    "memoria": 16,
+    "discDur": 512,
+    "processador": "Intel i7"
+  },
+  {
+    "marca": "HP",
+    "model": "Pavilion",
+    "memoria": 8,
+    "discDur": 256,
+    "processador": "AMD Ryzen 5"
+  }
+]
